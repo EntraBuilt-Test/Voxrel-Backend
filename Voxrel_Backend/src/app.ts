@@ -24,6 +24,7 @@ const allowedOrigins = [
   'https://samhita-admin.entraiotsolutions.workers.dev',
   'http://samhita-admin.entraiotsolutions.workers.dev',
   'https://voxrel-superadmin.entrabuilt.workers.dev',
+  'https://voxrel-superadmin-preview.entrabuilt.workers.dev',
   'https://voxrel-admin.entrabuilt.workers.dev',
   'https://voxrel-freelancer.entrabuilt.workers.dev',
   'http://localhost:3000',
