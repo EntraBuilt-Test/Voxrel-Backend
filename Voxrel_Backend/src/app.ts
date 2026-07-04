@@ -11,18 +11,6 @@ app.set('etag', false);
 
 // CORS configuration
 const allowedOrigins = [
-  'https://samhita-freelancer.kreativsaiapps.workers.dev',
-  'http://samhita-freelancer.kreativsaiapps.workers.dev',
-  'https://samhita-admin.kreativsaiapps.workers.dev',
-  'http://samhita-admin.kreativsaiapps.workers.dev',
-  'https://samhita-superadmin.kreativsaiapps.workers.dev',
-  'http://samhita-superadmin.kreativsaiapps.workers.dev',
-  'https://kreactive-freelancer.entraiotsolutions.workers.dev',
-  'http://kreactive-freelancer.entraiotsolutions.workers.dev',
-  'https://samhita-superadmin.entraiotsolutions.workers.dev',
-  'http://samhita-superadmin.entraiotsolutions.workers.dev',
-  'https://samhita-admin.entraiotsolutions.workers.dev',
-  'http://samhita-admin.entraiotsolutions.workers.dev',
   'https://voxrel-superadmin.entrabuilt.workers.dev',
   'https://voxrel-superadmin-preview.entrabuilt.workers.dev',
   'https://voxrel-admin.entrabuilt.workers.dev',
